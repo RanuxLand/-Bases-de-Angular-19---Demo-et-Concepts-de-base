@@ -6,7 +6,7 @@
 <img src="captures/c3.png">
 <img src="captures/c4.png">
 <img src="captures/c5.png">
-<img src="captures/C6.png">
+
 <img src="captures/c7.png">
 <img src="captures/c8.png">
 <img src="captures/c9.png">
